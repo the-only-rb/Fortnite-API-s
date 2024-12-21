@@ -1,0 +1,28 @@
+# Fortnite API Endpoints
+
+# Cosmetics
+https://fortnite-api.com/v2/cosmetics/br
+
+# Item Shop
+https://fortnite-api.com/v2/shop/br
+
+# Player Stats (Battle Royale)
+https://fortnite-api.com/v2/stats/br
+
+# News
+https://fortnite-api.com/v2/news
+
+# Playlists
+https://fortnite-api.com/v2/playlists
+
+# Minimap
+https://fortnite-api.com/v2/minimap
+
+# Banners
+https://fortnite-api.com/v2/banners
+
+# AES Keys
+https://fortnite-api.com/v2/aes
+
+# Creator Codes
+https://fortnite-api.com/v2/creator-codes
